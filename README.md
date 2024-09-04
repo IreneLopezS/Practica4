@@ -74,6 +74,8 @@ index.html
 
 
 
+
+
 mifacebook.html
 <!DOCTYPE html>
 <html lang="en">
@@ -93,6 +95,10 @@ p { color:blue}
 </body>
 </html>
 
+
+
+
+
 mitwitter.html
 <!DOCTYPE html>
 <html lang="en">
@@ -111,6 +117,10 @@ p { color:blue}
    <a href="index.html" >Regresar al menú</p>
 </body>
 </html>
+
+
+
+
 
 miinstagram.html
 <!DOCTYPE html>
